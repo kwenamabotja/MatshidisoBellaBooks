@@ -23,7 +23,7 @@ go to `localhost:8003`
 
 `git init --bare bellabooks.git`
 
-`git remote add bellabooks ssh://root@178.128.171.157/var/git/bellabooks.git`
+`git remote add bellabooks ssh://root@ip-address/var/git/bellabooks.git`
 
 `git push --set-upstream bellabooks master`
 
